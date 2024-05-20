@@ -1,0 +1,10 @@
+# Ignore generated files
+node_modules/
+
+# Ignore configuration files
+.env*
+.gitignore
+
+# Ignore build artifacts
+build/
+.next/
